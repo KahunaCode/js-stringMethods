@@ -40,7 +40,7 @@ console.log(worldLocator);
 /*4. Declare a new variable named `scissorHand` that will generate a new string "are afraid" from the existing string below. Console.log your result.*/
 
 var edward = "People are afraid of me because I am different";
-var scissorHand = edward.slice(11,17);
+var scissorHand = edward.slice(7,17);
 console.log(scissorHand);
 
 
