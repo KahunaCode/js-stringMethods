@@ -78,7 +78,7 @@ console.log(bigBand);
 /*8. Declare a variable named `oreoList` that will convert the string below into an array of strings. Console.log your result.*/
 
 var oreos = "red velvet, cookie dough, peanut butter, banana split, birthday cake";
-var oreoList = oreos.split();
+var oreoList = oreos.split(',');
 console.log(oreoList);
 
 
